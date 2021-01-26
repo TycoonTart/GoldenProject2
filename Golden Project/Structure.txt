@@ -1,0 +1,34 @@
+1)Characters
+Mountaineer-pc
+Mountain-npc
+hydration level-npc
+oxygen mask-npc
+polar bear-npc
+tiger-npc
+flag-npc
+food-npc
+.........................................
+2) Goal of the game
+-to reach the top of the mountain surpassing all the obstacles in between
+..............................................
+3) Rules
+-Mountaineer has to press the W key to go forward,S for going back,A for left
+and D for right
+
+-Mountaineer has to hydrate him self whenever the hydration level goes down(like feed the pet in virtual pet)
+
+-Player has to wear oxygen mask whenever he reaches a certain height
+
+-if the player cannot surpass the tiger he will have to restart
+-if snowstorm is going then the player must not move
+-player has to camp at night
+..................................................................
+4) Propeties of the game-
+-tigers have to be spawned 
+-penguins have to be spawned
+-oxygen and hydration stats have to be shown
+-add snowstorms
+-add api
+-use database 
+-mute button
+-player will get 5 chances in total
